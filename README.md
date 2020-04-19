@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Grant
 
 You can use the [editor on GitHub](https://github.com/Grant-sudo/grant-sudo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
